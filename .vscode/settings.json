@@ -17,6 +17,15 @@
       "name": "sql_project",
       "database": "sql_project",
       "username": "postgres"
+    },
+    {
+      "previewLimit": 50,
+      "server": "localhost",
+      "port": 5432,
+      "driver": "PostgreSQL",
+      "name": "world_layoffs",
+      "database": "world_layoffs",
+      "username": "postgres"
     }
   ]
 }
